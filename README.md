@@ -13,19 +13,19 @@ This project segments customers into meaningful groups using Machine Learning te
 
 🧠 Features
 
-✅ Real-world Online Retail II dataset
-✅ Data cleaning & preprocessing
-✅ RFM (Recency, Frequency, Monetary) analysis
-✅ Outlier detection & handling
-✅ Feature scaling
-✅ K-Means clustering
-✅ Elbow Method for optimal K selection
-✅ Silhouette Score evaluation
-✅ PCA visualization
-✅ Customer persona generation
-✅ Interactive Streamlit dashboard
-✅ AI-style business insights
-✅ Download segmented customer data
+- Real-world Online Retail II dataset
+- Data cleaning & preprocessing
+- RFM (Recency, Frequency, Monetary) analysis
+- Outlier detection & handling
+- Feature scaling
+- K-Means clustering
+- Elbow Method for optimal K selection
+- Silhouette Score evaluation
+- PCA visualization
+- Customer persona generation
+- Interactive Streamlit dashboard
+- AI-style business insights
+- Download segmented customer data
 
 📂 Dataset
 
@@ -85,6 +85,9 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ▶️ Run Jupyter Notebook
 jupyter notebook
+
+##### RUN APP ######
+streamlit run app.py
 
 Open:
 
